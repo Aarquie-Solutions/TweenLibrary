@@ -1,0 +1,7 @@
+{
+  "name": "com.aarquiesolutions.tweenlibrary",
+  "displayName": "Tween Library",
+  "version": "1.0.0",
+  "description": "Lightweight tweening library",
+  "type": "library"
+}
